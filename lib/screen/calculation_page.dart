@@ -1,6 +1,6 @@
-import 'package:bmicalculator/bottom_container.dart';
-import 'package:bmicalculator/card_content.dart';
-import 'package:bmicalculator/constants.dart';
+import 'package:bmicalculator/widgets/bottom_container.dart';
+import 'package:bmicalculator/widgets/card_content.dart';
+import 'package:bmicalculator/const/constants.dart';
 import 'package:flutter/material.dart';
 
 class CalculationPage extends StatelessWidget {

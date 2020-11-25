@@ -1,4 +1,4 @@
-import 'package:bmicalculator/home_page.dart';
+import 'package:bmicalculator/screen/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
